@@ -85,7 +85,7 @@ public class ArrayOperations {
         array1[3] = 2;
         array1[4] = 7;
 
-        int n = 5; //number of element the array
+        int n = 5; //number of element
         int capacity = 10;
         int key1 = 66;
 
